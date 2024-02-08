@@ -5,6 +5,7 @@ Simple HTTP Proxy and attribute filter for MPEG-DASH manifest
 ## Required libraries and services
 - Tested on a Linux system (Debian 11)
 - Python 3
+- python-mpegdash (MPEGDASHParser)
 
 ## Install
 - Just clone the project from the repository

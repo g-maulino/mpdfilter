@@ -17,6 +17,7 @@ Simple HTTP Proxy and attribute filter for MPEG-DASH manifest
 - Configure the playout in order to point to the manifest via the running proxy
 
 ## Limitations:
+- Filter r=0 attribute from segment lists
 - Does not support Byte range requests
 
 ## Improvements to be done
